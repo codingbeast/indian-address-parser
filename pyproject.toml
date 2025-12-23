@@ -1,0 +1,14 @@
+[project]
+name = "indian-address-parser"
+version = "0.0.1"
+description = "Fast Indian address parser"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.9"
+authors = [
+  { name = "Raj kumar Rao" }
+]
+
+dependencies = [
+  "regex>=2023.10"
+]
